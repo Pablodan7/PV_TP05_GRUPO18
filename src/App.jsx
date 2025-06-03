@@ -25,21 +25,6 @@ function App() {
           <Route path="/acercade" element={<AcercaDe />} />
         </Routes>
       </div>
-<<<<<<< HEAD
-=======
-      <h1>Holaa</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
->>>>>>> 9452df40b5f3edaa24e7e8d739d91c0ee16bd6d5
     </>
   );
 }
